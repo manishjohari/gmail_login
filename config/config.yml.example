@@ -1,0 +1,8 @@
+development:
+ google:
+  app_id: 'xxxxx'
+  secret: 'sssss'
+production:
+ google:
+  app_id: 'yyyy'
+  secret: 'zzzz'
